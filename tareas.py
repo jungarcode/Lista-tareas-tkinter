@@ -24,10 +24,6 @@ my_list = Listbox(my_frame,
 my_list.grid(row=0,column=0)
 my_list.config(font=("Courier", 16, "italic"))
 
-"""stuff=["aprender python","aprender django","aprender tkinter"]
-for item in stuff:
-    my_list.insert(END,item)"""
-    
 my_scrollbar= Scrollbar(my_frame)
 my_scrollbar.grid(row=0,column=1,sticky="nsew")
 

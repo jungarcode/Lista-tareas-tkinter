@@ -22,6 +22,6 @@ las tareas que se encuentran completadas se identificara con el color verde y po
 
 ![](https://1.bp.blogspot.com/-sdnOxQ77EOo/YXWQRkXdZcI/AAAAAAAAIxY/J-bCPSNSrEkAKXzI5Jrj4TQPiEgVnd1rACLcBGAsYHQ/s692/lista-tarea-completada.png)
 
-Para mas detalle visita el articulo en [Lista de Tareas](http://www.jungar.me "Lista de Tareas")
+Para mas detalle visita el articulo en [Lista de Tareas](https://www.jungar.me/2021/10/lista-de-tareas.html "Lista de Tareas")
  
 
